@@ -1,0 +1,53 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct rank
+{
+       int count;
+       char nome[30];
+       };
+int main()
+{
+    int i,j;
+  struct rank *p, *n, *b;
+  p=NULL;
+  b=NULL;
+  n=NULL;
+  
+  p=(struct rank*)malloc(1*sizeof(struct rank));
+  b=(struct rank*)malloc(1*sizeof(struct rank));
+  n=(struct rank*)malloc(1*sizeof(struct rank));
+  
+  
+  
+  FILE *fp;
+  
+  fp=fopen("rank.txt","w++");
+  if (fp==NULL) printf ("erro");
+
+           
+      fscanf(fp,"%s",(*p).nome);
+      fscanf(fp,"%i",&(*p).count);
+           
+      printf("Digite o nome:");
+      fflush(stdin);
+      gets((*b).nome);
+      printf("Digite o score:");
+      fflush(stdin);
+      scanf("%i",&(*b).count);
+      
+if((*p).count<(*b).count)
+{
+*n=*p;
+*p=*b;
+*b=*n;
+}      
+
+fprintf(fp,"Nome: %s\t", (*p).nome);
+fprintf(fp,"Score: %i\n", (*p).count);        
+                
+
+fclose(fp);
+  system("PAUSE");	
+  return 0;
+}
