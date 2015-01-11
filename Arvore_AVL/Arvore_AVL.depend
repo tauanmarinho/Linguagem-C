@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1394678566 source:c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\arvore_avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
