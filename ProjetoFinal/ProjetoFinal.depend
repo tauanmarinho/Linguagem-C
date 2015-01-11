@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1394655415 source:d:\sincronizados\dropbox\utfpr\3º período\estruturas de dados\aps - projeto final\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394655856 d:\sincronizados\dropbox\utfpr\3º período\estruturas de dados\aps - projeto final\projetofinal\binarytree.h
+	<conio.h>
+
+1394647503 d:\sincronizados\dropbox\utfpr\3º período\estruturas de dados\aps - projeto final\projetofinal\quicksort.h
+
+1394684002 source:c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projeto final e aps 2\projeto_final\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394688648 c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projeto final e aps 2\projeto_final\projetofinal\binarytree.h
+	<conio.h>
+
+1394647503 c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projeto final e aps 2\projeto_final\projetofinal\quicksort.h
+
+1394684002 source:d:\sincronizados\dropbox\projeto final e aps 2\projeto_final\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394738606 d:\sincronizados\dropbox\projeto final e aps 2\projeto_final\projetofinal\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 d:\sincronizados\dropbox\projeto final e aps 2\projeto_final\projetofinal\quicksort.h
+
+1394744507 source:d:\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394748016 d:\projetofinal\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 d:\projetofinal\quicksort.h
+
+1394763007 source:d:\projetofinal_carlos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394769171 d:\projetofinal_carlos\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 d:\projetofinal_carlos\quicksort.h
+
+1394842498 source:c:\users\tauan\documents\projetofinal_carlos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394842558 c:\users\tauan\documents\projetofinal_carlos\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 c:\users\tauan\documents\projetofinal_carlos\quicksort.h
+
+1394842498 source:c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394845873 c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projetofinal\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 c:\users\tauan\dropbox\engenharia eletrônica\3 período\estruturas de dados\projetofinal\quicksort.h
+
+1394846399 source:d:\sincronizados\dropbox\projeto final e aps 2\apresentação projeto final\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<windows.h>
+	"BinaryTree.h"
+	"QuickSort.h"
+
+1394846510 d:\sincronizados\dropbox\projeto final e aps 2\apresentação projeto final\projetofinal\binarytree.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1394647503 d:\sincronizados\dropbox\projeto final e aps 2\apresentação projeto final\projetofinal\quicksort.h
+
